@@ -16,7 +16,7 @@
     "express": "^4.16.4",
     "fs": "0.0.1-security",
     "image-to-base64": "^2.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.4.20",
     "multer": "^1.4.1",
     "multer-gridfs-storage": "^3.2.3",
