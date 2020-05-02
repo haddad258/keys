@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+    border: 1px solid red;
+/* 	  background: url(capout.png), no-repeat  ;
+ */
+
+	
+ /* background: url(car3.png) no-repeat   ; */
+
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+ 
+</head>
+
+<body align="center" >
+
+
+
+<!-- Trigger/Open The Modal -->
+<button id="idbuton">Open Modal</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div  class="modal-content">
+    <span class="close">&times;</span>
+    <div  >
+
+      <button class="fa fa-arrow-up btn btn-success" onmousedown="moveup1()" onmouseup="clearmove()" ontouchstart="moveup1()"></button>
+      <button class="fa fa-arrow-up btn btn-success" onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()"></button>
+    <button class="fa fa-arrow-up btn btn-success" onmousedown="moveup2()" onmouseup="clearmove()" ontouchstart="moveup2()"></button>
+    <button class="fa fa-arrow-up btn btn-success" onmousedown="moveup3()" onmouseup="clearmove()" ontouchstart="moveup3()"></button>
+    <button  class="fa fa-arrow-up btn btn-success" onmousedown="moveup4()" onmouseup="clearmove()" ontouchstart="moveup4()"></button>
+    <button  class="fa fa-arrow-up btn btn-success" onmousedown="moveup5()" onmouseup="clearmove()" ontouchstart="moveup5()"></button>
+    <button class="fa fa-arrow-up btn btn-success" onmousedown="moveup6()" onmouseup="clearmove()" ontouchstart="moveup6()"></button>
+    <button class="fa fa-arrow-up btn btn-success" onmousedown="moveup7()" onmouseup="clearmove()" ontouchstart="moveup7()"></button>
+    <button class="fa fa-arrow-up btn btn-success" onmousedown="moveup8()" onmouseup="clearmove()" ontouchstart="moveup8()"></button>
+    <button class="fa fa-arrow-up btn btn-success" onmousedown="moveup9()" onmouseup="clearmove()" ontouchstart="moveup9()"></button><br><br>
+    <div id="stat"></div>
+    <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown1()" onmouseup="clearmove()" ontouchstart="movedown()"></button>
+      <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown()" onmouseup="clearmove()" ontouchstart="movedown()"></button>
+    <button  class="fa fa-arrow-down btn btn-success" onmousedown="movedown2()" onmouseup="clearmove()" ontouchstart="movedown2()"></button>
+    <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown3()" onmouseup="clearmove()" ontouchstart="movedown3()"></button>
+    <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown4()" onmouseup="clearmove()" ontouchstart="movedown4()"></button>
+    <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown5()" onmouseup="clearmove()" ontouchstart="movedown5()"></button>
+    <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown6()" onmouseup="clearmove()" ontouchstart="movedown6()"></button>
+    <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown7()" onmouseup="clearmove()" ontouchstart="movedown7()"></button>
+    <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown8()" onmouseup="clearmove()" ontouchstart="movedown8()"></button>
+    <button class="fa fa-arrow-down btn btn-success" onmousedown="movedown9()" onmouseup="clearmove()" ontouchstart="movedown9()"></button>
+    
+      
+    
+      
+    </div>
+    
+    
+    <li> <a href="./index1.html"> <button type="button" class="btn btn-primary">suivant</i></button></a></li>
+    
+  </div>
+
+</div>
+
+
+
+</div>
+<script src="./script.js" > </script>
+</body>
+
+
+</html>
+

@@ -1,0 +1,1000 @@
+ 1001  node req.js 
+ 1002  npm start
+ 1003  npm install -g npm
+ 1004  sudo npm install -g npm
+ 1005  npm start
+ 1006  code .
+ 1007  npm start
+ 1008  node server.js 
+ 1009  code .
+ 1010  cd ites-flashtool-server-master/
+ 1011  ls
+ 1012  cd public/
+ 1013  code .
+ 1014  npm start
+ 1015  cd ..
+ 1016  npm start
+ 1017  code .
+ 1018  code .
+ 1019  code .
+ 1020  git clone git@github.com:bmarwane/spriteSplitter.git
+ 1021  gedit inde.html
+ 1022  ffmpeg -i CKE2.jpg -vf scale=1000:1000 out.png
+ 1023  npm install
+ 1024  npm audit fix
+ 1025  npm eun test
+ 1026  npm run test
+ 1027  npm start
+ 1028  node server.js 
+ 1029  gedit example.html
+ 1030  gedit back.html
+ 1031  code .
+ 1032  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1033  clear
+ 1034  cd 
+ 1035  cd /tmp/
+ 1036  gedit cookies 
+ 1037  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/orders?start=1561953600&$end=1562990400"
+ 1038  gedit cookies 
+ 1039  vim cookies 
+ 1040  nano cookies 
+ 1041  clear
+ 1042  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1043  cp cookies cookiesauth
+ 1044  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/orders"
+ 1045  cp cookies cookiesordernode req.js 
+ 1046  code .
+ 1047  node server.js 
+ 1048  node req.js > fich.txt
+ 1049  clear
+ 1050  gedit reqt.js
+ 1051  code .
+ 1052  node cooki.js > exmp.txt 
+ 1053  node reqt.js 
+ 1054  npm install request
+ 1055  node reqt.js 
+ 1056  node reqt.js > fich.txt
+ 1057  node axios.js > fich.txt 
+ 1058  npm install axios
+ 1059  node axios.js > fich.txt 
+ 1060  npm install node-fetch
+ 1061  node axios.js 
+ 1062  node axios.js > fich.txt 
+ 1063  node axios.js 
+ 1064  node axios.js > fich.txt 
+ 1065  node reqt.js > fich.txt
+ 1066  node example2.js >exmp.txt
+ 1067  npm install axios-cookiejar-support
+ 1068  node example2.js >exmp.txt
+ 1069  ode reqt.js > exmp.txt 
+ 1070  node reqt.js > exmp.txt 
+ 1071  cd final_version1/
+ 1072  npm start
+ 1073  cd ..
+ 1074  node reqt.js > exmp.txt 
+ 1075  cd final_version1/
+ 1076  npm start
+ 1077  npm install request
+ 1078  npm audit fix
+ 1079  node preload.js 
+ 1080  npm start
+ 1081  cd ..
+ 1082  node cooki.js 
+ 1083  clear
+ 1084  node cooki.js 
+ 1085  npm install
+ 1086  npm audit fix
+ 1087  npm start
+ 1088  node server.js 
+ 1089  npm install
+ 1090  node server.js 
+ 1091  node server.js 
+ 1092  npm start
+ 1093  code .
+ 1094  gedit index.html
+ 1095  code .
+ 1096  npm install jquery
+ 1097  npm audit fix
+ 1098  npm start
+ 1099  node cooki.js > exmp.txt 
+ 1100  node cooki.js
+ 1101  node axios.js 
+ 1102  node example2.js 
+ 1103  npm start
+ 1104  code .
+ 1105  code .
+ 1106  node cooki.js 
+ 1107  npm startcle
+ 1108  clear
+ 1109  npm startcle
+ 1110  npm start
+ 1111  node axios.js 
+ 1112  clear
+ 1113  node req.js 
+ 1114  code .
+ 1115  node server.js 
+ 1116  gedit show.html
+ 1117  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1118  clear
+ 1119  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/orders"
+ 1120  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/orders" > fich.txt
+ 1121  gedit fich.txt 
+ 1122  code .
+ 1123  npm start
+ 1124  gedit script.js
+ 1125  gedit scri.js
+ 1126  gedit afii.html
+ 1127  gedit galerie.html
+ 1128  gedit  tuto.html
+ 1129  code .
+ 1130  code .
+ 1131  node req.js 
+ 1132  code .
+ 1133  code .
+ 1134  npm start
+ 1135  npm start
+ 1136  code .
+ 1137  npm start
+ 1138  ls
+ 1139  ./exmple 
+ 1140  code .
+ 1141  cd ..
+ 1142  ls
+ 1143  cd ..
+ 1144  ./exmple 
+ 1145  ./electron-app2 
+ 1146  npm start
+ 1147  npm install axios-cookiejar-support
+ 1148  npm i axios axios-cookiejar-support
+ 1149  sudo npm i axios axios-cookiejar-support
+ 1150  npm audit fix
+ 1151  electron-packager /home/haddadrafik258/weekendhttp/final_version1/  exmple --platform=linux   --arch=x64
+ 1152  cd exmple-linux-x64/
+ 1153  ls
+ 1154  ./exmple 
+ 1155  clear
+ 1156  ./exmple 
+ 1157  sudo npm install axios-cookiejar-support
+ 1158  npm audit fix
+ 1159  ./exmple 
+ 1160  ./electron-app2 
+ 1161  electron-packager .
+ 1162  ls
+ 1163  cd electron-app2-linux-x64/
+ 1164  ls
+ 1165  ls
+ 1166  gedit pacakge_ex.html
+ 1167  cd weekendhttp/
+ 1168  ls
+ 1169  cd final_version1/
+ 1170  electron-packager /home/haddadrafik258/weekendhttp/final_version1/  exmple --platform=linux   --arch=x64
+ 1171  ls
+ 1172  cd exmple-linux-x64/
+ 1173  ls
+ 1174  ./exmple 
+ 1175  npm install axios-cookiejar-suuport
+ 1176  npm install axios-cookiejar-suport
+ 1177  ./exmple 
+ 1178  npm install axios-cookiejar-support
+ 1179  ./exmple 
+ 1180  git clone https://github.com/electron/electron-quick-start
+ 1181  cd electron-quick-start/
+ 1182  npm install
+ 1183  cd ..
+ 1184  sudo rm -r electron-quick-start/
+ 1185  ls
+ 1186  cd electron-quick-start/
+ 1187  git clone https://github.com/electron/electron-quick-start
+ 1188  cd electron-quick-start/
+ 1189  gedit package.json 
+ 1190  npm install
+ 1191  npm start
+ 1192  npm install
+ 1193  gedit package.json 
+ 1194  npm install
+ 1195  npm clean
+ 1196  npm -i
+ 1197  npm i
+ 1198  cd ..
+ 1199  sudo rm -r electron-quick-start/
+ 1200  git clone https://github.com/electron/electron-quick-start
+ 1201  cd electron-quick-start/
+ 1202  npm install
+ 1203  npm start
+ 1204  npm install electron-packager --save-dev
+ 1205  npm install electron-packager -g
+ 1206  sudo npm install electron-packager -g
+ 1207  electron-packager /home/haddadrafik258/weekendhttp/electron-quick-start/  exmple --platform=x86_64   --arch=x86_64 
+ 1208  electron-packager /home/haddadrafik258/weekendhttp/electron-quick-start/  exmple --platform=x86_64   --arch=arm
+ 1209  electron-packager /home/haddadrafik258/weekendhttp/electron-quick-start/  exmple --platform=x86_64   --arch=x64
+ 1210  electron-packager /home/haddadrafik258/weekendhttp/electron-quick-start/  exmple --platform=linux   --arch=x64
+ 1211  ls
+ 1212  gedit gri.html
+ 1213  gedit grid.
+ 1214  gedit grid.html
+ 1215  clear
+ 1216  ffmpeg -i CKE14.jpg -vf scale=1000:1000 out.png
+ 1217  ffmpeg -i CKE14.jpg -vf scale=500:270 out.png
+ 1218  node file.js 
+ 1219  npm start
+ 1220  npm start
+ 1221  node server.js 
+ 1222  npm start
+ 1223  ls
+ 1224  ./electron-quick-start 
+ 1225  cd weekendhttp/
+ 1226  ls
+ 1227  cd electron-quick-start/
+ 1228  ls
+ 1229  npm install -g electron-forge
+ 1230  sudo npm install -g electron-forge
+ 1231  electron-forge /home/haddadrafik258/weekendhttp/electron-quick-start/ exmple --platform=linux --arch=x64 
+ 1232  ls
+ 1233  electron-forge  --platform=linux --arch=x64 
+ 1234  electron-forgemake
+ 1235  electron-forge make
+ 1236  sudo electron-forge make
+ 1237  electron-forgemake  --platform=linux --arch=x64 
+ 1238  electron-forge make  --platform=linux --arch=x64 
+ 1239  electron-forge --platform=linux --arch=x64 
+ 1240  electron-forge  exmple --platform=linux --arch=x64 
+ 1241  ls
+ 1242  npx create-electron-app my-app
+ 1243  ls
+ 1244  cdm
+ 1245  cd my-app/
+ 1246  ls
+ 1247  npm start
+ 1248  electron-forge make 
+ 1249  npm install --save-dev electron-prebuilt-compile
+ 1250  npm audit fix
+ 1251  electron-forge make 
+ 1252  gedit  package.json 
+ 1253  npm install electron-prebuilt-compile --save-dev
+ 1254  electron-forge make 
+ 1255  cd ..
+ 1256  electron-forge make 
+ 1257  npm install electron-prebuilt-compile --save-dev
+ 1258  electron-forge make 
+ 1259  gedit package.json 
+ 1260  npm install
+ 1261  npm audit fix
+ 1262  electron-forge make 
+ 1263  electron-forge make --platform=linux --arch=x64 
+ 1264  electron-forge  exmple --platform=linux --arch=x64 
+ 1265  electron-forge start 
+ 1266  electron-forge init 
+ 1267  electron-forge start 
+ 1268  electron-forge make 
+ 1269  npm start
+ 1270  node server.js 
+ 1271  npm install jquery
+ 1272  ls
+ 1273  cd final_version1/
+ 1274  npm start
+ 1275  code .
+ 1276  code .
+ 1277  node server.js 
+ 1278  cd ..
+ 1279  npm install axios
+ 1280  node server.js 
+ 1281  npm install axios
+ 1282  node server.js 
+ 1283  code .
+ 1284  npm start
+ 1285  cd ..
+ 1286  npm start
+ 1287  node server.js 
+ 1288  code .
+ 1289  mongo
+ 1290  npm start
+ 1291  cd ..
+ 1292  cd final_version1/
+ 1293  npm start
+ 1294  code .
+ 1295  gedit error.html
+ 1296  node req.js 
+ 1297  node resq.js 
+ 1298  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1299  npm start
+ 1300  code .
+ 1301  node server.js 
+ 1302  clear
+ 1303  code .
+ 1304  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik@gmail.com","password":"0000"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1305  clear
+ 1306  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"0000"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1307  npm start
+ 1308  clear
+ 1309  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}' \
+ 1310  clear
+ 1311  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"0000"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1312  clear
+ 1313  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik@gmail.com","password":"0000"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1314  clear
+ 1315  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1316  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1317  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"password"}' \
+ 1318  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"0000"}' 
+ 1319  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"0000"}'      https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1320  clear
+ 1321  npm start
+ 1322  node server.js 
+ 1323  code .
+ 1324  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"0000"}'      https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1325  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"0000"}'    \  https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1326  gedit error.html
+ 1327  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1328  cd /dev/
+ 1329  ls
+ 1330  cd ..
+ 1331  cd usr/
+ 1332  ls
+ 1333  cd bin/
+ 1334  ls
+ 1335  npm start
+ 1336  code .
+ 1337  cd 
+ 1338  cd Desktop/
+ 1339  cd NodeAPI-master/
+ 1340  node server.js 
+ 1341  npm start
+ 1342  code .
+ 1343  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1344  npm start
+ 1345  ls
+ 1346  cd final_version1/
+ 1347  npm start
+ 1348  node server.js 
+ 1349  code .
+ 1350  code .
+ 1351  ffmpeg -i CAP.png -vf scale=480:270 car3.png
+ 1352  code .
+ 1353  cd
+ 1354  cd Desktop/NodeAPI-master/
+ 1355  node server.js 
+ 1356  npm start
+ 1357  npode server.js 
+ 1358  node server.js 
+ 1359  ls
+ 1360  ./electron-app2 
+ 1361  npm start
+ 1362  gedit modal.html
+ 1363  code .
+ 1364  npm start
+ 1365  code .
+ 1366  electron-forge
+ 1367  electron-forge ..
+ 1368  electron-forge .
+ 1369  ls
+ 1370  electron-forge --platform=linux --arch=x64 
+ 1371  electron-forge example --platform=linux --arch=x64 
+ 1372  sudo npm install pm2@latest -g
+ 1373  code .
+ 1374  code .
+ 1375  ffmpeg -i uu.png -vf scale=480:270 io.png
+ 1376  git clone https://github.com/electron/electron-quick-start
+ 1377  cd electron-quick-start/
+ 1378  npm install
+ 1379  npm start
+ 1380  code .
+ 1381  ffmpeg -i uur.png -vf scale=480:270 crop.png
+ 1382  code .
+ 1383  code .
+ 1384  node server.js 
+ 1385  npm start
+ 1386  ffmpeg -i 4.jpg -vf scale=480:270 ex.png
+ 1387  git clone https://github.com/electron/electron-quick-start
+ 1388  npm install
+ 1389  npm start
+ 1390  cd electron-quick-start/
+ 1391  npm install
+ 1392  npm start
+ 1393  code .
+ 1394  code .
+ 1395  npm start
+ 1396  npm start
+ 1397  code .
+ 1398  code .
+ 1399  npm install
+ 1400  code .
+ 1401  npm start
+ 1402  code .
+ 1403  cd ..
+ 1404  npm start
+ 1405  ffmpeg -i CKE3.jpg -vf scale=480:270 ex.jpg
+ 1406  cd ..
+ 1407  cd Documents/
+ 1408  ls
+ 1409  ffmpeg -i CKE3_1.jpg -vf scale=480:270 ex.jpg
+ 1410  ffmpeg -i 4.jpg -vf scale=480:270 ex.png
+ 1411  npm start
+ 1412  code .
+ 1413  cd 
+ 1414  cd Desktop/NodeAPI-master/
+ 1415  node server.js 
+ 1416  gedit norm.js
+ 1417  node norm.js 
+ 1418  code .
+ 1419  npm start
+ 1420  npm start
+ 1421  code .
+ 1422  npm start
+ 1423  code .
+ 1424  npm install
+ 1425  node -v
+ 1426  node app.js 
+ 1427  npm intsall bcrypt
+ 1428  npm install bcrypt
+ 1429  code 0.
+ 1430  code .
+ 1431  npm start 
+ 1432  npm start
+ 1433  ls
+ 1434  npm start
+ 1435  node aid.js 
+ 1436  npm install node-rest-client
+ 1437  npm audit fix
+ 1438  node aid.js 
+ 1439  git clone https://github.com/keygen-sh/example-electron-app
+ 1440  cd example-electron-app/
+ 1441  ls
+ 1442  npm install
+ 1443  npm audit fix
+ 1444  npm start
+ 1445  git clone https://github.com/electron/electron-quick-start
+ 1446  cd versionx2/
+ 1447  code .
+ 1448  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"johnadmin@none.com","password":"password"}'     https://carkeysexpress.com/api/v1/admin/users/authenticate
+ 1449  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/orders?user_id=2356589"
+ 1450  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/keyrings?user_id=2356589"
+ 1451  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/keyrings?product_id=1004219"
+ 1452  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/orders"
+ 1453  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/keyrings?product_id=845800"
+ 1454  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/keyrings?product_id=2358015"
+ 1455  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/keyrings?user_id=2358015"
+ 1456  curl -c /tmp/cookies -b /tmp/cookies --request GET "https://carkeysexpress.com/api/v1/admin/keyrings/3"
+ 1457  code .
+ 1458  npm start
+ 1459  cd frontend/
+ 1460  npm start
+ 1461  node index.js 
+ 1462  npm start
+ 1463  npm install
+ 1464  npm start
+ 1465  node index.js 
+ 1466  npm start
+ 1467  gedit preload.js 
+ 1468  npm start
+ 1469  code .
+ 1470  clear
+ 1471  node app.js 
+ 1472  cd 
+ 1473  cd Desktop/versionX2/
+ 1474  gedit active.html
+ 1475  cmake .
+ 1476  make -j8
+ 1477  ls
+ 1478  cd build/
+ 1479  ls
+ 1480  ./MultitargetTracker 
+ 1481  ./MultitargetTracker -H
+ 1482  ./MultitargetTracker -help
+ 1483  ./MultitargetTracker -e=6
+ 1484  ./MultitargetTracker -e=5
+ 1485  ./MultitargetTracker -e=4
+ 1486  ./MultitargetTracker -e=3
+ 1487  cmake .
+ 1488  make -j8
+ 1489  cmake .
+ 1490  make -j8
+ 1491  npm install
+ 1492  node server.js 
+ 1493  node re
+ 1494  node req.js 
+ 1495  node server.js 
+ 1496  npm install
+ 1497  npm audit fix
+ 1498  npm start
+ 1499  node server.js 
+ 1500  npm start
+ 1501  node app.js 
+ 1502  code .
+ 1503  npm start
+ 1504  code .
+ 1505  npm start
+ 1506  npm start
+ 1507  code .
+ 1508  code .
+ 1509  npm start
+ 1510  npm start
+ 1511  code .
+ 1512  code .
+ 1513  code .
+ 1514  code .
+ 1515  npm install localStorage
+ 1516  npm start
+ 1517  node app.js 
+ 1518  code .
+ 1519  cd ites-flashtool-server-master/
+ 1520  ls
+ 1521  node server.js 
+ 1522  cd ites-flashtool-server-master/
+ 1523  node server.js 
+ 1524  cd ites-flashtool-server-master/
+ 1525  node server.js 
+ 1526  code .
+ 1527  node server.js 
+ 1528  npm start
+ 1529  node app.js 
+ 1530  cd ites-flashtool-server-master/
+ 1531  node server.js 
+ 1532  cd ..
+ 1533  npm start
+ 1534  npm install axios
+ 1535  node app.js 
+ 1536  axios
+ 1537  npm install axios-cookiejar-support
+ 1538  axios
+ 1539  node app.js 
+ 1540  clear
+ 1541  node app.js 
+ 1542  npm install
+ 1543  npm start
+ 1544  npm install
+ 1545  npm start
+ 1546  npm install jquery
+ 1547  npm install axios
+ 1548  npm install axios-cookiejar-support
+ 1549  npm install request
+ 1550  npm start
+ 1551  npm install 
+ 1552  npm start
+ 1553  code .
+ 1554  code .
+ 1555  code .
+ 1556  git clone https://github.com/electron/electron-quick-start
+ 1557  cd electron-quick-start
+ 1558  code .
+ 1559  code .
+ 1560  gedi find.js
+ 1561  gedit find.js
+ 1562  node find.js 
+ 1563  npm start
+ 1564  code .
+ 1565  npm install
+ 1566  npm audit fix
+ 1567  node server.js 
+ 1568  npm install ejs
+ 1569  node server.js 
+ 1570  node app.js 
+ 1571  netstat 
+ 1572  netstat -paunt
+ 1573  kill 8507
+ 1574  code .
+ 1575  code .
+ 1576  cd getimage/
+ 1577  code .
+ 1578  cd 
+ 1579  cd Downloads/
+ 1580  ls
+ 1581  ls
+ 1582  node server.js 
+ 1583  npm start
+ 1584  node app.js 
+ 1585  node server.js 
+ 1586  node server.js 
+ 1587  code .
+ 1588  code .
+ 1589  npm start
+ 1590  npm start
+ 1591  code .
+ 1592  node server.js 
+ 1593  node server.js 
+ 1594  npm install axios
+ 1595  node server.js 
+ 1596  npm install axios-cookiejar-support
+ 1597  node server.js 
+ 1598  code .
+ 1599  node server.js 
+ 1600  code .
+ 1601  npm start
+ 1602  code .
+ 1603  npm start
+ 1604  npm start
+ 1605  ls
+ 1606  npm start
+ 1607  cd node-mysql-crud-app-master/
+ 1608  node app.js 
+ 1609  cd ..
+ 1610  npm start
+ 1611  cd process
+ 1612  node server.js 
+ 1613  cd ..
+ 1614  npm start
+ 1615  cd process
+ 1616  node server.js 
+ 1617  node server.js 
+ 1618  code .
+ 1619  npm start
+ 1620  node server.js 
+ 1621  netstat -intup
+ 1622  netstat -lntup
+ 1623  kill -9 25314
+ 1624  netstat -lntup
+ 1625  cd process
+ 1626  node server.js 
+ 1627  code .
+ 1628  node server.js 
+ 1629  netstat -lntup
+ 1630  kill -9 29197
+ 1631  npm start
+ 1632  code .
+ 1633  code .
+ 1634  code .
+ 1635  node s
+ 1636  cd process
+ 1637  node server.js 
+ 1638  cd ..
+ 1639  npm start
+ 1640  cd process
+ 1641  node server.js 
+ 1642  cd ..
+ 1643  code .
+ 1644  cd ..
+ 1645  node server.js 
+ 1646  npm start
+ 1647  cd process
+ 1648  node server.js 
+ 1649  npm i -S image-to-base64
+ 1650  node server.js 
+ 1651  cd ..
+ 1652  npm start
+ 1653  cd ..
+ 1654  cd electron-quick-start
+ 1655  npm start
+ 1656  npm install custom-electron-titlebar
+ 1657  npm start
+ 1658  code .
+ 1659  code .
+ 1660  cd ..
+ 1661  cd process/n
+ 1662  cd process/
+ 1663  node server.js 
+ 1664  cd ..
+ 1665  npm start
+ 1666  ls
+ 1667  cd electron-quick-start
+ 1668  cd process
+ 1669  node server.js 
+ 1670  cd ..
+ 1671  npm start
+ 1672  cd process
+ 1673  node server.js 
+ 1674  npm start
+ 1675  code .
+ 1676  npm start
+ 1677  code .
+ 1678  code .
+ 1679  npm start
+ 1680  node server.js 
+ 1681  npm start
+ 1682  code .
+ 1683  code .
+ 1684  ipconfig
+ 1685  ifconfig 
+ 1686  ls
+ 1687  ./example 
+ 1688  npm install electron-packager --save-dev
+ 1689  npm install electron-packager -g
+ 1690  sudo npm install electron-packager -g
+ 1691  electron-packager /home/haddadrafik258/Desktop/axios/electron-quick-start/sourcedir/  example --platform=win32 --arch=x64
+ 1692  electron-packager /home/haddadrafik258/Desktop/axios/electron-quick-start/sourcedir/  example --platform=linux --arch=x64
+ 1693  ls
+ 1694  cd example-linux-x64/
+ 1695  ls
+ 1696  ./example 
+ 1697  npm start
+ 1698  electron-packager /home/haddadrafik258/Desktop/axios/electron-quick-start/sourcedir/  example --platform=linux --arch=x64
+ 1699  electron-packager /home/haddadrafik258/Desktop/axios/electron-quick-start/  example --platform=linux --arch=x64
+ 1700  cd example-linux-x64/
+ 1701  ls
+ 1702  ./example 
+ 1703  ls
+ 1704  ./example
+ 1705  ls
+ 1706  cd ..
+ 1707  npm install -g electron-installer-debian
+ 1708  sudo npm install -g electron-installer-debian
+ 1709  gedit debain.json
+ 1710  npm run package-linux
+ 1711  ls
+ 1712  cd release-builds/
+ 1713  ls
+ 1714  clear
+ 1715  cd ..
+ 1716  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1717  clear
+ 1718  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1719  electron-packager /home/haddadrafik258/Desktop/axios/electron-quick-start/ simple --platform=win32 --arch=ia32 
+ 1720  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1721  npm start
+ 1722  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1723  electron-packager /home/haddadrafik258/Desktop/axios/electron-quick-start/ simple --platform=win32 --arch=ia32 
+ 1724  npm run package-linux
+ 1725  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1726  npm start
+ 1727  cd electron-quick-start/
+ 1728  code .
+ 1729  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1730  sudo apt-get install keyapp 
+ 1731  keyapp 
+ 1732  keyring 
+ 1733  keytool 
+ 1734  cd electron-quick-start/
+ 1735  code .
+ 1736  npm install
+ 1737  node server.js 
+ 1738  code .
+ 1739  node server.js 
+ 1740  gedit server.js 
+ 1741  node server.js 
+ 1742  cd ..
+ 1743  npm start
+ 1744  ls
+ 1745  cd electron-quick-start
+ 1746  npm start
+ 1747  npm start
+ 1748  npm start
+ 1749  node app.js 
+ 1750  code .
+ 1751  node app.js 
+ 1752  npm start
+ 1753  cd processkeyringsordrers/
+ 1754  node s
+ 1755  node app.js 
+ 1756  cd ..
+ 1757  npm start
+ 1758  cd processkeyringsordrers/
+ 1759  node app.js 
+ 1760  cd ..
+ 1761  npm start
+ 1762  [A
+ 1763  npm start
+ 1764  cd processkeyringsordrers/
+ 1765  node app.js 
+ 1766  cd ..
+ 1767  cd process
+ 1768  node server.js 
+ 1769  git init
+ 1770  ls
+ 1771  git init
+ 1772  git commit -m "first commit"
+ 1773  git remote add origin https://github.com/haddad258/keyapp.git
+ 1774  git push -u origin master
+ 1775  rm -rf .git
+ 1776  git init
+ 1777  sudo rm -rf .git
+ 1778  git init
+ 1779  gedit .git
+ 1780  find . | grep .git | xargs rm -rf
+ 1781  git init
+ 1782  git remote add origin https://github.com/haddad258/keyapp.git
+ 1783  git status
+ 1784  git add boot.css 
+ 1785  git status
+ 1786  git add all
+ 1787  git add cke-full-logo.png 
+ 1788  git add index.html 
+ 1789  git add package.json 
+ 1790  git add package-lock.json 
+ 1791  git add process
+ 1792  git add processapp/
+ 1793  git add processkeyringsordrers/
+ 1794  git add preload.js 
+ 1795  git status 
+ 1796  git add main.js 
+ 1797  git remote add origin https://github.com/haddad258/keyapp.git
+ 1798  git push origin master
+ 1799  git add .
+ 1800  git commit -m "First keyapp version"
+ 1801  git remote add origin https://github.com/haddad258/keyapp.git
+ 1802  git remote -v
+ 1803  git push origin master
+ 1804  git status
+ 1805  git add 
+ 1806  git add .
+ 1807  git push origin master
+ 1808  code .
+ 1809  npm start
+ 1810  cd process
+ 1811  node server.js 
+ 1812  cd ..
+ 1813  npm start
+ 1814  code .
+ 1815  npm start
+ 1816  npm start
+ 1817  code .
+ 1818  node server.js 
+ 1819  code .
+ 1820  node server.js 
+ 1821  npm start
+ 1822  cd process
+ 1823  node server.js 
+ 1824  cd ..
+ 1825  npm start
+ 1826  sudo npm install -g electron-installer-debian
+ 1827  npm run package-linux
+ 1828  npm install
+ 1829  npm audit fix
+ 1830  npm run package-linux
+ 1831  code .
+ 1832  ls
+ 1833  sudo rm -r electron-quick-start/
+ 1834  npm install
+ 1835  npm audit fix
+ 1836  npm start
+ 1837  gedit debain.json
+ 1838  npm run package-linux
+ 1839  npm install -g electron-installer-debian
+ 1840  sudo npm install -g electron-installer-debian
+ 1841  npm run package-linux
+ 1842  ls
+ 1843  npm run package-linux
+ 1844  npm install electron-packager
+ 1845  npm start
+ 1846  npm run package-linux
+ 1847  npm start
+ 1848  npm run package-linux
+ 1849  code .
+ 1850  npm run package-linux
+ 1851  electron-installer-debian --src release-builds/electron-tutorial-app-linux-x64/ --arch amd64 --config debian.json
+ 1852  electron-installer-debian --src release-builds/electron-tutorial-app-linux-x64/ --arch amd64 --config debain.json 
+ 1853  electron-installer-debian --src example-linux-x64/ --arch amd64 --config debain.json 
+ 1854  electron-installer-debian --src release-builds/electron-tutorial-app-linux-x64/ --arch amd64 --config debian.json
+ 1855  electron-installer-debian --src release-builds/keyapp --arch amd64 --config debian.json
+ 1856  electron-installer-debian --src release-builds/electron-tutorial-app-linux-x64/ --arch=amd64 --config debian.json
+ 1857  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debian.json
+ 1858  electron-installer-debian --src release-builds/electron-tutorial-app-linux-x64/ --arch=amd64 --config debian.json
+ 1859  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch=amd64 --config debian.json
+ 1860  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debian.json
+ 1861  npm run package-linux
+ 1862  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debian.json
+ 1863  npm run package-linux
+ 1864  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debian.json
+ 1865  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 
+ 1866  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debian.json
+ 1867  code .
+ 1868  npm start
+ 1869  code .
+ 1870  npm install -g electron-installer-debian
+ 1871  sudo npm install -g electron-installer-debian
+ 1872  gedit debain.json
+ 1873  npm install
+ 1874  npm audit fix
+ 1875  npm run package-linux
+ 1876  sudo npm run package-linux
+ 1877  electron-forge example --platform=linux --arch=x64 
+ 1878  ls
+ 1879  history 
+ 1880  electron-forgemak
+ 1881  electron-forgemake
+ 1882  electron-forge make
+ 1883  electron-forge example --platform=linux --arch=x64 
+ 1884  electron-forge make
+ 1885  npm run package-linux
+ 1886  history > histrory.txt
+ 1887  gedit histrory.txt 
+ 1888  ls
+ 1889  sudo rm -r electron-quick-start/
+ 1890  ls
+ 1891  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1892  sudo apt-get install keyapp 
+ 1893  keyapp 
+ 1894  cd ..
+ 1895  npm run package-linux
+ 1896  gedit compteur.html
+ 1897  npm start
+ 1898  ffmpeg -i omar.png -vf scale=1000:720 omarou.png
+ 1899  ffmpeg -i omar1.png -vf scale=1000:950 omarou1.png
+ 1900  ffmpeg -i omar3.png -vf scale=1000:950 omarou2.png
+ 1901  node re
+ 1902  node req.js 
+ 1903  node axios.js 
+ 1904  npm install node-fetch
+ 1905  npm audit fix
+ 1906  node axios.js 
+ 1907  code .
+ 1908  code .
+ 1909  gedit compteur.js
+ 1910  code .
+ 1911  npm start
+ 1912  node server.js 
+ 1913  npm start
+ 1914  curl -c /tmp/cookies -b /tmp/cookies -X GET https://carkeysexpress.com/api/v1/keyrings
+ 1915  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"0000"}'     https://carkeysexpress.com/api/v1/users/authenticate
+ 1916  clear
+ 1917  curl -c /tmp/cookies -b /tmp/cookies -X GET https://carkeysexpress.com/api/v1/keyrings
+ 1918  curl -c /tmp/cookies -b /tmp/cookies -X GET https://carkeysexpress.com/api/v1/keyrings > keyrin.txt
+ 1919  gedit keyrin.txt 
+ 1920  gedit tdpeth.txt
+ 1921  code .
+ 1922  code .
+ 1923  cd processkeyringsordrers/
+ 1924  node app.js 
+ 1925  cd process
+ 1926  node server.js 
+ 1927  cd ..
+ 1928  npm start
+ 1929  cd process
+ 1930  node server.js 
+ 1931  cd ..
+ 1932  npm start
+ 1933  gedit mysql.js
+ 1934  code .
+ 1935  mysql -u root -p
+ 1936  sudo mysql -u root -p
+ 1937  code .
+ 1938  code .
+ 1939  node mysql.js 
+ 1940  sudo mysql -u root -p 
+ 1941  node mysql.js 
+ 1942  mysql status
+ 1943  node mysql.js 
+ 1944  node s
+ 1945  node app.js 
+ 1946  mysql -u root -p 
+ 1947  node app.js 
+ 1948  node app
+ 1949  node app.js 
+ 1950  ls
+ 1951  node mysql.js 
+ 1952  mysql -u root -p 
+ 1953  node mysql.js 
+ 1954  goo
+ 1955  mysql -u root -p
+ 1956  node mysql.js 
+ 1957  code .
+ 1958  code .
+ 1959  gedit file.js
+ 1960  keyapp 
+ 1961  node file.js 
+ 1962  cd process
+ 1963  cd public/
+ 1964  node readfile.js 
+ 1965  cd ..
+ 1966  npm start
+ 1967  cd ..
+ 1968  cd keyapp/
+ 1969  npm start
+ 1970  sudo rm -r process
+ 1971  ls
+ 1972  sudo rm -r processapp/
+ 1973  l
+ 1974  sudo rm -r processkeyringsordrers/
+ 1975  ls
+ 1976  clear
+ 1977  npm start
+ 1978  code .
+ 1979  clear
+ 1980  npm start
+ 1981  npm run package-linux
+ 1982  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debian.json
+ 1983  electron-installer-debian --src release-builds/ --arch amd64 --config debian.json
+ 1984  npm start
+ 1985  npm run package-linux
+ 1986  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debian.json
+ 1987  history > hist.txt
+ 1988  gedit  hist.txt 
+ 1989  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debian.json
+ 1990  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json
+ 1991  sudo apt-get autoremove keyapp 
+ 1992  ls
+ 1993  cd release-builds/
+ 1994  ls
+ 1995  cd key
+ 1996  ls
+ 1997  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1998  sudo apt-get install keyapp 
+ 1999  keyapp 
+ 2000  history > hist2.txt

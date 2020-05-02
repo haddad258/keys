@@ -1,0 +1,1000 @@
+  999  react-native -start
+ 1000  npm start
+ 1001  npm install
+ 1002  sudo react-native run-android
+ 1003  javac -v
+ 1004  javac -version
+ 1005  sudo react-native run-android
+ 1006  npm install
+ 1007  sudo react-native run-android
+ 1008  xode .
+ 1009  code .
+ 1010  code .
+ 1011  code .
+ 1012  code .
+ 1013  npm install
+ 1014  sudo react-native run-android
+ 1015  adb devices
+ 1016  sudo react-native run-android
+ 1017  adb devices
+ 1018  sudo react-native run-android
+ 1019  react-native start
+ 1020  ./studio.sh 
+ 1021  db devices
+ 1022  adb devices
+ 1023  code .
+ 1024  sudo rm -r react-native-material-design-demo-master/
+ 1025  cd /tmp/
+ 1026  ls
+ 1027  code .
+ 1028  gedit app.js
+ 1029  node app.js 
+ 1030  gedit face.js
+ 1031  node face.js 
+ 1032  npm install request
+ 1033  node face.js 
+ 1034  npm install http
+ 1035  node face.js 
+ 1036  node index.js 
+ 1037  code .
+ 1038  node index.js 
+ 1039  keyapp 
+ 1040  code .
+ 1041  node index.js 
+ 1042  node app.js 
+ 1043  npm install mongodb
+ 1044  node app.js 
+ 1045  mongo
+ 1046  node app.js 
+ 1047  mongo 
+ 1048  node app.js 
+ 1049  npm install assert
+ 1050  node app.js 
+ 1051  code .
+ 1052  node index.js 
+ 1053  npm install mongodb
+ 1054  node index.js 
+ 1055  npm install mongoose
+ 1056  node index.j
+ 1057  node index.js 
+ 1058  ffmpeg -i 12.png -vf scale=1000:950 out2.png
+ 1059  gedit index.js
+ 1060  clear
+ 1061  node index.js 
+ 1062  npm installopencv
+ 1063  npm install opencv
+ 1064  node index.js 
+ 1065  node index.js 
+ 1066  code .
+ 1067  npm start
+ 1068  node server.js ²
+ 1069  exit 
+ 1070  exit 
+ 1071  ls
+ 1072  exit 
+ 1073  node app.js 
+ 1074  exit 
+ 1075  node server.js 
+ 1076  exit 
+ 1077  npm start
+ 1078  node server.js 
+ 1079  npm start
+ 1080  CODE .
+ 1081  code .
+ 1082  code .
+ 1083  code .
+ 1084  node server.js 
+ 1085  keyapp 
+ 1086  code .
+ 1087  gedit ec.html
+ 1088  code .
+ 1089  npm start
+ 1090  npm start
+ 1091  code .
+ 1092  npm start
+ 1093  code .
+ 1094  npm start
+ 1095  code .
+ 1096  cd process/public/
+ 1097  npm install jquery
+ 1098  cd process
+ 1099  ls
+ 1100  cd public/
+ 1101  npm install axios
+ 1102  cd ..
+ 1103  npm start
+ 1104  gedit polic.html
+ 1105  code .
+ 1106  code .
+ 1107  npm install -g electron-installer-debian
+ 1108  clear
+ 1109  npm run package-linux
+ 1110  electron-installer-debian --src release-builds/electron-tutorial-app-linux-x64/ --arch amd64 --config debain.json 
+ 1111  npm run package-linux
+ 1112  electron-installer-debian --src release-builds/electron-tutorial-app-linux-x64/ --arch amd64 --config debain.json 
+ 1113  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1114  npm run package-linux
+ 1115  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1116  cd process/public/
+ 1117  npm install opencv
+ 1118  npm install opencvjs
+ 1119  npm audit fix
+ 1120  node file.js 
+ 1121  code .
+ 1122  gedit contou.c++
+ 1123  node index.js 
+ 1124  ls
+ 1125  g++ contou.cpp -o conto  `pkg-config --cflags --libs opencv`
+ 1126  ./conto 
+ 1127  g++ contou.cpp -o conto  `pkg-config --cflags --libs opencv`
+ 1128  ./conto 
+ 1129  node index.js 
+ 1130  ls
+ 1131  code .
+ 1132  clear
+ 1133  node index.js 
+ 1134  code .
+ 1135  keyapp 
+ 1136  code .
+ 1137  code .
+ 1138  code .
+ 1139  code
+ 1140  code.
+ 1141  code .
+ 1142  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"haddadrafik258@gmail.com","password":"0000"}'     https://carkeysexpress.com/api/v1/users/authenticate
+ 1143  curl -c /tmp/cookies -b /tmp/cookies -X POST -F 'keyring_id=1' -F 'photos[]=@edge_cut_silhouette.png' -F  https://carkeysexpress.com/api/v1/keyrings/upload
+ 1144  curl -c /tmp/cookies -b /tmp/cookies -X POST -F 'keyring_id=1' -F 'photos[]=@edge_cut_silhouette.png'   https://carkeysexpress.com/api/v1/keyrings/upload
+ 1145  curl -c /tmp/cookies -b /tmp/cookies -X POST -F 'keyring_id=7' -F 'photos[]=@edge_cut_silhouette.png'   https://carkeysexpress.com/api/v1/keyrings/upload
+ 1146  cd Videos/
+ 1147  git clone https://github.com/shkrwnd/openCV-js.git
+ 1148  cd openCV-js/
+ 1149  node opencv.js 
+ 1150  npm install opencvjs
+ 1151  node server.js 
+ 1152  npm install opencv
+ 1153  node server.js 
+ 1154  code .
+ 1155  code .
+ 1156  npm install
+ 1157  git clone https://github.com/opencv/opencv.git
+ 1158  npm start
+ 1159  code .
+ 1160  node server.js 
+ 1161  npm install jquery
+ 1162  npm install axios
+ 1163  node server.js 
+ 1164  ls
+ 1165  ./publish-npm.sh 
+ 1166  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"test@gmail.com","password":"0000"}'     https://carkeysexpress.com/api/v1/users/authenticate
+ 1167  curl -c /tmp/cookies -b /tmp/cookies -X POST -F 'keyring_id=1' -F 'photos[]=erp.png' https://carkeysexpress.com/api/v1/keyrings/upload
+ 1168  curl -c /tmp/cookies -b /tmp/cookies -X POST -F 'keyring_id=1' -F 'photos[]=@erp.png' https://carkeysexpress.com/api/v1/keyrings/upload
+ 1169  npm start
+ 1170  code .
+ 1171  g++ contou.cpp -o conto  `pkg-config --cflags --libs opencv`
+ 1172  ./conto 
+ 1173  g++ contou.cpp -o conto  `pkg-config --cflags --libs opencv`
+ 1174  ./conto 
+ 1175  code .
+ 1176  code .
+ 1177  node index.js 
+ 1178  code .
+ 1179  npm start
+ 1180  code .
+ 1181  npm install
+ 1182  npm start
+ 1183  code .
+ 1184  g++ inde.cpp -o inde.
+ 1185  g++ inde.cpp -o inde
+ 1186  ./inde 
+ 1187  npm start
+ 1188  npm start
+ 1189  npm run package-linux
+ 1190  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1191  cd release-builds/
+ 1192  ls
+ 1193  sudo apt-get autoremove keyapp 
+ 1194  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1195  cd ..
+ 1196  npm run package-linux
+ 1197  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1198  clear
+ 1199  cd release-builds/
+ 1200  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1201  keyapp 
+ 1202  code .
+ 1203  gedit inde.cpp
+ 1204  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1205  npm run package-linux
+ 1206  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1207  code .
+ 1208  npm run package-linux
+ 1209  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1210  npm start
+ 1211  tensseg.html
+ 1212  gedit tensseg.html
+ 1213  keyapp 
+ 1214  keyapp 
+ 1215  gedit segmetation.cpp
+ 1216  g++ contou.cpp -o conto  `pkg-config --cflags --libs opencv`
+ 1217  g++ segmetation.cpp -o segg  `pkg-config --cflags --libs opencv`
+ 1218  ./segg 
+ 1219  ./segg 1.png 
+ 1220  g++ segmetation.cpp -o segg  `pkg-config --cflags --libs opencv`
+ 1221  ./segg 
+ 1222  ./segg 1.png 
+ 1223  code .
+ 1224  python3 road\ lines\ detection.py 
+ 1225  python3 lines\ detection.py 
+ 1226  python3 lines\ detection.py 
+ 1227  code .
+ 1228  code .
+ 1229  cd .
+ 1230  cd ..
+ 1231  cd versionfinalx/
+ 1232  npm start
+ 1233  code .
+ 1234  clear
+ 1235  git clone https://github.com/electron/electron-quick-start
+ 1236  cd electron-quick-start/
+ 1237  npm install
+ 1238  code .
+ 1239  npm start
+ 1240  npm start
+ 1241  code .
+ 1242  gedit index.html
+ 1243  code .
+ 1244  code .
+ 1245  git clone https://github.com/doo/scanbot-sdk-example-android.wiki.git
+ 1246  cd scanbot-sdk-example-android.wiki/
+ 1247  ls
+ 1248  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"first_name":"test","last_name":"test","email":"test@gmail.com","password":"password","phone":"55555"}'     https://carkeysexpress.com/api/v1/users/save
+ 1249  clear
+ 1250  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"test@gmail.com","password":"0000"}'     https://carkeysexpress.com/api/v1/users/authenticate
+ 1251  curl -c /tmp/cookies -b /tmp/cookies -X POST -F 'keyring_id=1' -F 'photos[]=@erp.png' -F 'photos[]=@epp.png' https://carkeysexpress.com/api/v1/keyrings/upload
+ 1252  keyapp 
+ 1253  npm start
+ 1254  npm install
+ 1255  code .
+ 1256  npm install
+ 1257  npm start
+ 1258  node server.js 
+ 1259  npm start
+ 1260  npm run-script build
+ 1261  npm run-script dist
+ 1262  npm start
+ 1263  code .
+ 1264  code.
+ 1265  code .
+ 1266  npm start
+ 1267  code .
+ 1268  code .
+ 1269  npm start
+ 1270  code .
+ 1271  npm start
+ 1272  npm install
+ 1273  npm install opencv 
+ 1274  npm start
+ 1275  clear
+ 1276  npm start
+ 1277  npm start
+ 1278  code 
+ 1279  code .
+ 1280  npm start
+ 1281  npstart
+ 1282  npm start
+ 1283  code .
+ 1284  clear
+ 1285  code .
+ 1286  npm start
+ 1287  cd ..
+ 1288  npm start
+ 1289  clear
+ 1290  npm start
+ 1291  cd ..
+ 1292  npm start
+ 1293  clear
+ 1294  npm start
+ 1295  code .
+ 1296  ffmpeg -i video_2019_10_07_22_55_04.mp4 -fs 100M demoo.mp4
+ 1297  ffmpeg -i video_2019_10_07_22_55_04.mp4 100M out.mp4
+ 1298  ffmpeg -i video_2019_10_07_22_55_04.mp4 -c:v libx264 -crf 24 -b:v 1M -c:a aac output.mp4
+ 1299  code .
+ 1300  npm start
+ 1301  code .
+ 1302  code .
+ 1303  npm start
+ 1304  npm start
+ 1305  code .
+ 1306  history >filee.txt
+ 1307  npm run package-linux
+ 1308  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1309  npm start
+ 1310  npm run package-linux
+ 1311  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json 
+ 1312  ls
+ 1313  cd release-builds/
+ 1314  lks
+ 1315  ls
+ 1316  chmod a+x keyapp-linux-x64/
+ 1317  ls
+ 1318  chmod a+x keyapp_1.0.0_amd64.deb 
+ 1319  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1320  ls
+ 1321  chmod a+x keyapp_1.0.0_amd64.deb 
+ 1322  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1323  npm start
+ 1324  ls
+ 1325  ./keyapp 
+ 1326  npm start
+ 1327  node axios.js 
+ 1328  mkdir DB_KEY
+ 1329  cd DB_KEY/
+ 1330  code .
+ 1331  code .
+ 1332  gedit date.js
+ 1333  node date.js 
+ 1334  gedit date.js
+ 1335  node date.js 
+ 1336  node create.js 
+ 1337  node database.js 
+ 1338  node create.js 
+ 1339  node database.js 
+ 1340  node create.js 
+ 1341  node database.js 
+ 1342  node database.js 
+ 1343  npm install axios
+ 1344  node database.js 
+ 1345  mysql -u root -p
+ 1346  node create.js 
+ 1347  NPM INSTALL MYSQL
+ 1348  npm install mysql
+ 1349  node create.js 
+ 1350  node database.js 
+ 1351  mysql -u root -p
+ 1352  node database.js 
+ 1353  node create.js 
+ 1354  node database.js 
+ 1355  mysql -u root -p
+ 1356  node create.js 
+ 1357  node database.js 
+ 1358  mysql -u root -p
+ 1359  node database.js 
+ 1360  mysql -u root -p
+ 1361  node create.js 
+ 1362  mysql -u root -p
+ 1363  node database.js 
+ 1364  mysql -u root -p
+ 1365  node create.js 
+ 1366  node database.js 
+ 1367  mysql -u root -p
+ 1368  node database.js 
+ 1369  clear
+ 1370  node database.js 
+ 1371  mysql -u root -p
+ 1372  node database.js 
+ 1373  node create.js 
+ 1374  mysql -u root -p
+ 1375  node create.js 
+ 1376  node database.js 
+ 1377  mysql -u root -p
+ 1378  clear
+ 1379  node database.js 
+ 1380  mysql -u root -p
+ 1381  cls
+ 1382  clear
+ 1383  npm start
+ 1384  ls
+ 1385  history hist.txt 
+ 1386  clear
+ 1387  npm start
+ 1388  npm run package-linux
+ 1389  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json
+ 1390  code .
+ 1391  node server.js 
+ 1392  npm install node-deb
+ 1393  node-deb -- server.js 
+ 1394  npm install -g node-deb
+ 1395  sudo npm install -g node-deb
+ 1396  node-deb -- server.js 
+ 1397  sudo node-deb -- server.js lib/
+ 1398  node server.js 
+ 1399  npm start
+ 1400  cd miseajour11-10-2019\ \(copy\)/
+ 1401  ls
+ 1402  cd versionguide/
+ 1403  ls
+ 1404  cd versionfinalx/
+ 1405  npm start
+ 1406  npm start
+ 1407  npm run debrun
+ 1408  npm run package-linux
+ 1409  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json
+ 1410  npm run package-linux
+ 1411  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json
+ 1412  npm install node-cmd
+ 1413  npm start
+ 1414  npm run add-deb
+ 1415  code .
+ 1416  npm start
+ 1417  npm start
+ 1418  npm start
+ 1419  code .
+ 1420  npm install node-cmd
+ 1421  npm start
+ 1422  gedit examloe.cpp
+ 1423  g++ examloe.cpp -o examloe.
+ 1424  ./examloe. 
+ 1425  ./examloe. 78
+ 1426  ./examloe. 7844
+ 1427  code .
+ 1428  doxygen -g server.js 
+ 1429  doxygen -g
+ 1430  ls
+ 1431  mkdir build
+ 1432  cd build/
+ 1433  cmake -G "Unix Makefiles" ..
+ 1434  make -j8
+ 1435  sudo make install
+ 1436  sudo ldconfig
+ 1437  code .
+ 1438  g++ examloe.cpp -o examloe.
+ 1439  ./examloe. 7844 44 88 6tte
+ 1440  g++ examloe.cpp -o examloe.
+ 1441  ./examloe. 7844 44 88 6tte
+ 1442  g++ examloe.cpp -Wall  -o examloe.
+ 1443  g++ examloe.cpp -wall  -o examloe.
+ 1444  mysql -u root -p
+ 1445  node create.
+ 1446  node create.js 
+ 1447  node database.js 
+ 1448  node create.js 
+ 1449  doxygen Doxyfile 
+ 1450  doxygen Doxyfile 
+ 1451  sudo npm install doxygen -g
+ 1452  gedit confi.js
+ 1453  node confi.js 
+ 1454  npm install doxygen
+ 1455  node confi.js 
+ 1456  clear
+ 1457  doxygen --docs
+ 1458  code .
+ 1459  code .
+ 1460  doxygen -g file.txt
+ 1461  doxygen -g file.html
+ 1462  doxygen file.txt 
+ 1463  git clone https://gist.github.com/caiorss/b04df92734c93e300658285d0b76ed07 example-doxygen 
+ 1464  cd example-doxygen/
+ 1465  ls
+ 1466  doxygen Doxyfile 
+ 1467  cd ..
+ 1468  vlr
+ 1469  clear
+ 1470  git clone https://gist.github.com/caiorss/b04df92734c93e300658285d0b76ed07 example-doxygen 
+ 1471  ls
+ 1472  doxygen Doxyfile 
+ 1473  jsdoc server.js 
+ 1474  sudo apt install jsdoc-toolkit
+ 1475  jsdoc server.js 
+ 1476  jsdoc server.js  ./doc
+ 1477  jsdoc server.js  -d= public/
+ 1478  jsdoc server.js  -d=public/
+ 1479  git clone https://gist.github.com/caiorss/b04df92734c93e300658285d0b76ed07 example-doxygen 
+ 1480  doxygen Doxyfile 
+ 1481  doxygen --docs
+ 1482  doxygen --config
+ 1483  doxygen --download
+ 1484  node confi.js 
+ 1485  node gener.js 
+ 1486  node confi.js 
+ 1487  sudo npm -g install yuidocjs
+ 1488  yuidoc .
+ 1489  node database.js 
+ 1490  npm start
+ 1491  sudo dpkg -i CKE_webApp_V.deb 
+ 1492  keyapp 
+ 1493  npm start
+ 1494  code .
+ 1495  npm run package-linux
+ 1496  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json
+ 1497  gedit ex.cpp
+ 1498  gcc ex.cpp -o ecc
+ 1499  tree
+ 1500  npm start
+ 1501  code .
+ 1502  gcc ex.cpp -o ex
+ 1503  g++ ex.cpp -o ex
+ 1504  ./ex 
+ 1505  g++ ex.cpp -o ex
+ 1506  ./ex 
+ 1507  g++ ex.cpp -o ex
+ 1508  ./ex 
+ 1509  mkdir c++
+ 1510  cd c++/
+ 1511  code .
+ 1512  g++ ex.cpp -o ex
+ 1513  ./ex 
+ 1514  g++ ex.cpp -o ex
+ 1515  ./ex 
+ 1516  g++ ex.cpp -o ex
+ 1517  ./ex 
+ 1518  g++ ex.cpp -o ex
+ 1519  ./ex 
+ 1520  g++ ex.cpp -o ex
+ 1521  ./ex 
+ 1522  g++ ex.cpp -o ex
+ 1523  ./ex 
+ 1524  g++ ex.cpp -o ex
+ 1525  ./ex 
+ 1526  g++ ex.cpp -o ex
+ 1527  ./ex 
+ 1528  g++ ex.cpp -o ex
+ 1529  ./ex 
+ 1530  g++ ex.cpp -o ex
+ 1531  ./ex 
+ 1532  g++ ex.cpp -o ex
+ 1533  ./ex 
+ 1534  g++ ex.cpp -o ex
+ 1535  ./ex 
+ 1536  g++ ex.cpp -o ex
+ 1537  ./ex 
+ 1538  g++ ex.cpp -o ex
+ 1539  ./ex 
+ 1540  g++ ex.cpp -o ex
+ 1541  ./ex 
+ 1542  g++ ex.cpp -o ex
+ 1543  ./ex 
+ 1544  g++ ex.cpp -o ex
+ 1545  ./ex 
+ 1546  g++ ex.cpp -o ex
+ 1547  ./ex 
+ 1548  g++ ex.cpp -o ex
+ 1549  ./ex 
+ 1550  g++ ex.cpp -o ex
+ 1551  ./ex 
+ 1552  g++ ex.cpp -o ex
+ 1553  ./ex 
+ 1554  g++ ex.cpp -o ex
+ 1555  ./ex 
+ 1556  g++ ex.cpp -o ex
+ 1557  ./ex 
+ 1558  g++ ex.cpp -o ex
+ 1559  ./ex 
+ 1560  g++ ex.cpp -o ex
+ 1561  ./ex 
+ 1562  g++ ex.cpp -o ex
+ 1563  ./ex 
+ 1564  g++ ex.cpp -o ex
+ 1565  npm start
+ 1566  pwd
+ 1567  help
+ 1568  uname -o
+ 1569  uname -r
+ 1570  uname -a
+ 1571  uname -l
+ 1572  find / -name ‘*’
+ 1573  find / -name '*'
+ 1574  code .
+ 1575  npm start
+ 1576  gcc ec.cpp -o ec
+ 1577  ./ec 
+ 1578  gcc ec.cpp -o ec
+ 1579  g++ ec.cpp -o ec
+ 1580  ./ex 
+ 1581  g++ ec.cpp -o ec
+ 1582  clear
+ 1583  cls
+ 1584  code .
+ 1585  start:electron
+ 1586  npm *start:electron
+ 1587  npm start:electron
+ 1588  electron .
+ 1589  npm install
+ 1590  npm start 
+ 1591  npm install electron-log
+ 1592  npm start 
+ 1593  npm install electron-reload
+ 1594  npm start 
+ 1595  npm start
+ 1596  g++ yolo_object_detection.cpp -o yolo  `pkg-config --cflags --libs opencv`
+ 1597  ls
+ 1598  ./yolo 
+ 1599  code  0.
+ 1600  code  .
+ 1601  g++ yolo_object_detection.cpp -o yolo  `pkg-config --cflags --libs opencv`
+ 1602  ./yolo 
+ 1603  g++ yolo_object_detection.cpp -o yolo  `pkg-config --cflags --libs opencv`
+ 1604  ./yolo 
+ 1605  g++ yolo_object_detection.cpp -o yolo  `pkg-config --cflags --libs opencv`
+ 1606  ./yolo 
+ 1607  npm start
+ 1608  g++ yolo_object_detection.cpp -o yolo  `pkg-config --cflags --libs opencv`
+ 1609  ./yolo 
+ 1610  g++ yolo_object_detection.cpp -o yolo  `pkg-config --cflags --libs opencv`
+ 1611  ./yolo 
+ 1612  npm run package-linux
+ 1613  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json
+ 1614  npm run package-linux
+ 1615  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json
+ 1616  cd release-builds/
+ 1617  ls
+ 1618  chmod a+x
+ 1619  sudo dpkg -i keyapp_1.0.0_amd64.deb 
+ 1620  keyapp 
+ 1621  cd ..
+ 1622  npm run package-linux
+ 1623  electron-installer-debian --src release-builds/keyapp-linux-x64/ --arch amd64 --config debain.json
+ 1624  gedit yolo.cpp
+ 1625  g++ yolo.cpp -o yolo  `pkg-config --cflags --libs opencv`
+ 1626  npm install
+ 1627  npm start
+ 1628  ng build
+ 1629  npm start
+ 1630  clear
+ 1631  code .
+ 1632  cmake .
+ 1633  make -j8
+ 1634  ls
+ 1635  cd build/
+ 1636  ls
+ 1637  ./MultitargetTracker 
+ 1638  ./MultitargetTracker -E=5
+ 1639  ./MultitargetTracker -e=5
+ 1640  ./MultitargetTracker -e=5 -g=1
+ 1641  ./MultitargetTracker -e=4 -g=1
+ 1642  ./MultitargetTracker -e=6 -g=1
+ 1643  git clone https://github.com/justadudewhohacks/face-api.js.git
+ 1644  cd face-api.js/
+ 1645  npm install
+ 1646  npm start
+ 1647  code .
+ 1648  ts-node faceDetection.ts
+ 1649  npm i
+ 1650  npm start
+ 1651  npm install
+ 1652  npm start
+ 1653  git clone https://github.com/NanoNets/object-detection-sample-nodejs.git
+ 1654  ls
+ 1655  npm install
+ 1656  node server.js 
+ 1657  git clone https://github.com/NanoNets/object-detection-sample-nodejs.git
+ 1658  cd object-detection-sample-nodejs/
+ 1659  ls
+ 1660  cd code/
+ 1661  ls
+ 1662  npm install
+ 1663  node create-model.js 
+ 1664  mysql -u root -p
+ 1665  sudo mysql -u root -p
+ 1666  node create.
+ 1667  node create.js 
+ 1668  code .
+ 1669  npm install 
+ 1670  npm start
+ 1671  mysql -u root -p
+ 1672  sudo mysql -u root -p keyDB < keydb_vehiculeid.sql 
+ 1673  sudo mysql -u root -p keyDB < keydb_years.sql 
+ 1674  sudo mysql -u root -p 
+ 1675  code .
+ 1676  ls
+ 1677  node app.js
+ 1678  sudo mysql -u root -p keyDB < keydb_years.sql 
+ 1679  sudo mysql -u root -p 
+ 1680  npm install
+ 1681  cp .env.example .env
+ 1682  npm start
+ 1683  npm install
+ 1684  npm start
+ 1685  ng build
+ 1686  sudo apt install ng-common
+ 1687  ng build
+ 1688  code .
+ 1689  npm install -g @angular/cli
+ 1690  sudo npm install -g @angular/cli
+ 1691  npm install
+ 1692  npm start
+ 1693  NPM BUILD
+ 1694  npm build
+ 1695  npm run-script build
+ 1696  code .
+ 1697  sudo mysql -u root -p 
+ 1698  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{"email":"info@carkeysexpress.com","password":"password"}'     https://carkeysexpress.com/api/v1/users/authenticate
+ 1699  clear
+ 1700  curl -c /tmp/cookies -b /tmp/cookies -X GET https://carkeysexpress.com/api/v1/orders
+ 1701  clear
+ 1702  curl -c /tmp/cookies -b /tmp/cookies -X GET https://carkeysexpress.com/api/v1/keyrings
+ 1703  curl -c /tmp/cookies -b /tmp/cookies      --header "Content-Type: application/json"     --request POST     --data '{}'     https://carkeysexpress.com/api/v1/keyrings/99/delete
+ 1704  clear
+ 1705  npm start
+ 1706  code .
+ 1707  npm install
+ 1708  ng serve -o
+ 1709  ng config -g cli.warnings.versionMismatch false
+ 1710  ng serve 
+ 1711  cd ..
+ 1712  npm install -g create-react-app
+ 1713  sudo npm install -g create-react-app
+ 1714  npx create-react-app myfirstreact 
+ 1715  cd myfirstreact/
+ 1716  npm start
+ 1717  code .
+ 1718  npm install
+ 1719  npm start
+ 1720  npm isnatll
+ 1721  npm install
+ 1722  npm start
+ 1723  meteor npm install
+ 1724  code .
+ 1725  npm install
+ 1726  npm start
+ 1727  cp env.example.json env.json
+ 1728  npm start
+ 1729  npm install
+ 1730  npm start
+ 1731  ng serve
+ 1732  code .
+ 1733  npm install
+ 1734  npm start
+ 1735  node app.js 
+ 1736  npm install
+ 1737  ng serve
+ 1738  npm audit fix
+ 1739  npm start
+ 1740  ng build
+ 1741  npm start
+ 1742  code .
+ 1743  npm start
+ 1744  npm install
+ 1745  ng serve
+ 1746  npm install 
+ 1747  npm install @angular/cdk@6.4.7 --save
+ 1748  npm install --save @angular/animations@6.1.7
+ 1749  npm install --save hammerjs@2.0.8
+ 1750  npm install --save @angular/flex-layout@6.0.0-beta.18
+ 1751  ng serve
+ 1752  code .
+ 1753  ng version
+ 1754  ng new newapp --style=scss
+ 1755  ng serve
+ 1756  ls
+ 1757  cd newapp/
+ 1758  ng serve
+ 1759  clear
+ 1760  npm install
+ 1761  code .
+ 1762  ng serve
+ 1763  ng build
+ 1764  ng serve
+ 1765  code .
+ 1766  ls
+ 1767  cd android/
+ 1768  ls
+ 1769  gedit local.properties
+ 1770  npx react-native run-android
+ 1771  code .
+ 1772  npm install watchman
+ 1773  react-native init PropertyFinder
+ 1774  vd PropertyFinder/
+ 1775  ncd PropertyFinder/
+ 1776  cd PropertyFinder/
+ 1777  npm react-native run-android
+ 1778  npx react-native run-android
+ 1779  react-native start
+ 1780  npm install
+ 1781  npm install
+ 1782  npm start
+ 1783  yarn start:web
+ 1784  yarn install
+ 1785  ls
+ 1786  sudo react-native run-android
+ 1787  npm start
+ 1788  sudo *npm start
+ 1789  sudo npm start
+ 1790  react-native start
+ 1791  npm  start:web
+ 1792  npm  start
+ 1793  react-native start --port=8088
+ 1794  npx react-native run-android
+ 1795  npx react-native run-android --debug
+ 1796  npx react-native run-android --info 
+ 1797  npx react-native run-android --stacktrace
+ 1798  npx react-native run-android
+ 1799  ms
+ 1800  ls
+ 1801  cd a
+ 1802  cd android/
+ 1803  ls
+ 1804  chmod 755gradlew
+ 1805  chmod 755 gradlew
+ 1806  ls
+ 1807  cd ..
+ 1808  npm run build
+ 1809  npm run 
+ 1810  npm start
+ 1811  netstat 
+ 1812  netstat  -a
+ 1813  `node node_modules/react-native/local-cli/cli.js start`
+ 1814  npm r -g watchman
+ 1815  npm start
+ 1816  npm install -g react-vr-cli
+ 1817  npm install
+ 1818  cp .env.example .env
+ 1819  npm start
+ 1820  code .
+ 1821  ng new conFusion --style=scss
+ 1822  ls
+ 1823  sudo rm -r conFusion/
+ 1824  ng new conFusion --style=scss
+ 1825  LS
+ 1826  ls
+ 1827  sudo rm -r conFusion/
+ 1828  ng new appcoursera 
+ 1829  ng new appcoursera
+ 1830  sudo npm upgrade -g npm
+ 1831  npm install -g @angular/cli
+ 1832  sudo npm install -g @angular/cli
+ 1833  npm cache clean --force
+ 1834  ng serve
+ 1835  code .
+ 1836  code .
+ 1837  ng serve
+ 1838  python3 eyeinthesky.py 
+ 1839  sudo pip3 install telepot
+ 1840  python3 eyeinthesky.py 
+ 1841  sudo pip3 install tmatplotlib
+ 1842  sudo pip3 install tmatplot
+ 1843  sudo pip3 install matplot
+ 1844  python3 eyeinthesky.py 
+ 1845  history >fs.txt
+ 1846  code .
+ 1847  code .
+ 1848  clear
+ 1849  ng new newapp2 --style=scss
+ 1850  cd newapp2/
+ 1851  ng build
+ 1852  ng serve
+ 1853  npm install
+ 1854  ng serve
+ 1855  gedit inist.json
+ 1856  gedit rand.json
+ 1857  gedit garde.json
+ 1858  ng g cl shared/cke
+ 1859  ng g s shared/rest-api
+ 1860  mkdir AN+MONG
+ 1861  code .
+ 1862  npm install
+ 1863  npm start
+ 1864  code .
+ 1865  ng serve
+ 1866  ng build
+ 1867  ng serve
+ 1868  code .
+ 1869  cd ..
+ 1870  code .
+ 1871  npm install
+ 1872  ng serve
+ 1873  ls
+ 1874  cd angular/
+ 1875  ls
+ 1876  npm install
+ 1877  ng serve
+ 1878  ng new apptut
+ 1879  cd apptut/
+ 1880  code .
+ 1881  code .
+ 1882  npm start
+ 1883  npm start
+ 1884  code .
+ 1885  ng serve
+ 1886  ng generate component login
+ 1887  ng serve
+ 1888  ng generate component routingto
+ 1889  ng generate component home
+ 1890  ng generate component about
+ 1891  ng serve
+ 1892  ng build
+ 1893  ng serve
+ 1894  ng g service myservice
+ 1895  ng serve
+ 1896  code .
+ 1897  npm install
+ 1898  npm start
+ 1899  ng serve
+ 1900  cd ..
+ 1901  ls
+ 1902  cd newapp
+ 1903  ng serve
+ 1904  ng new appe
+ 1905  cd ..
+ 1906  ng new appe
+ 1907  ng serve
+ 1908  ng build
+ 1909  cd appe/
+ 1910  ng serve
+ 1911  code .
+ 1912  sudo npm install -g jshint
+ 1913  code .
+ 1914  npm start
+ 1915  ng new routing
+ 1916  cd routing/
+ 1917  code .
+ 1918  npm install
+ 1919  node app.js 
+ 1920  ng serve
+ 1921  node server.js 
+ 1922  ng serve
+ 1923  ng generate component routing
+ 1924  ng generate component home
+ 1925  ng generate component about
+ 1926  ng generate component login
+ 1927  ng serve
+ 1928  node server.js 
+ 1929  npm start
+ 1930  ng serve
+ 1931  npm start
+ 1932  ng serve
+ 1933  npm start
+ 1934  npm install
+ 1935  composer install
+ 1936  sudo apt install composer
+ 1937  composer install
+ 1938  php artisan jwt:generate
+ 1939  ls
+ 1940  ng serve
+ 1941  gedit test.txt
+ 1942  code .
+ 1943  gedit train.txt
+ 1944  wget https://pjreddie.com/media/files/darknet53.conv.74 -O ~/darknet/darknet53.conv.74
+ 1945  wget https://pjreddie.com/media/files/darknet53.conv.74 
+ 1946  wget https://storage.googleapis.com/openimages/2018_04/class-descriptions-boxable.csv
+ 1947  git clone https://github.com/pjreddie/darknet
+ 1948  cd darknet/
+ 1949  make
+ 1950  ls
+ 1951  cd examples/
+ 1952  ls
+ 1953  gedit detector.c 
+ 1954  cd ~/darknet
+ 1955  cd ..
+ 1956  cd darknet/
+ 1957  gedit darknet.txt
+ 1958  code .
+ 1959  mkdir reacexamp
+ 1960  make
+ 1961  cd ..
+ 1962  cd src/
+ 1963  make denise
+ 1964  cd ..
+ 1965  ls
+ 1966  cd src/
+ 1967  gedit Makefile 
+ 1968  node poseapi.js 
+ 1969  npm install
+ 1970  node poseapi.js 
+ 1971  npm install express
+ 1972  mkdir build 
+ 1973  cd build/
+ 1974  cmake ..
+ 1975  make -j8
+ 1976  cmake .
+ 1977  mkdir build
+ 1978  cd build/
+ 1979  cmake ..
+ 1980  cd src/
+ 1981  make
+ 1982  cmake .
+ 1983  ls
+ 1984  ./run.sh 
+ 1985  code .
+ 1986  ls
+ 1987  npm install
+ 1988  ng serve
+ 1989  node posedetection/poseapi.js 
+ 1990  npm install @tensorflow/tfjs-node
+ 1991  node posedetection/poseapi.js 
+ 1992  npm install @tensorflow-models/posenet
+ 1993  node posedetection/poseapi.js 
+ 1994  npm install canvas
+ 1995  node posedetection/poseapi.js 
+ 1996  npm install
+ 1997  ng serve
+ 1998  history > hist.txt 

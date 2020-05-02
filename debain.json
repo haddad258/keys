@@ -1,0 +1,10 @@
+{
+  "dest": "release-builds",
+  "icon": "/home/haddadrafik258/Desktop/AverionM/versionfinalx/image.jpg",
+  "categories": [
+    "Utility"
+  ],
+  "lintianOverrides": [
+    "changelog-file-missing-in-native-package"
+  ]
+}
